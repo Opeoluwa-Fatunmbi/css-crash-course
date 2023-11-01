@@ -86,5 +86,6 @@ body{
 
 .categories li{
     padding-bottom: 6px;
-    border-bottom: 1px dotted #ccc;
+    border-bottom: 1px dotted #333;
+    /* list-style-image: url('../images/checkmark.png'); */
 }
